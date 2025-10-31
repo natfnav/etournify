@@ -1,5 +1,5 @@
 # Project Overview
-Our project is all about making E-Sports tournaments easier to organize and take part in.
+This project is all about making E-Sports tournaments easier to organize and take part in.
 It’s a platform where users can set up accounts, sign up teams, run tournaments, keep track of
 their performance, and tweak their profiles. Plus, it’s got cool features like post-match reports,
 MVP shoutouts, and performance graphs to make things more fun for both players and event
