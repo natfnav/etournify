@@ -1,5 +1,3 @@
-# ETournify
-
 # Project Overview
 Our project is all about making E-Sports tournaments easier to organize and take part in.
 It’s a platform where users can set up accounts, sign up teams, run tournaments, keep track of
